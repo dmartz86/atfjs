@@ -1,0 +1,20 @@
+{
+  "name": "atfjs",
+  "version": "1.0.0",
+  "description": "Javascript Automate Testing Framework Implementation",
+  "main": "app.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "Daniel Martinez",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.1.1",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-firefox-launcher": "^1.0.0",
+    "karma-ie-launcher": "^1.0.0",
+    "karma-jasmine": "^1.0.2"
+  }
+}
